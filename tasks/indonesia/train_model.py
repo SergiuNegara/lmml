@@ -4,7 +4,7 @@ import torch.optim as optim
 from torchvision import datasets, transforms, models
 from torch.utils.data import DataLoader
 
-def create_dataloaders(data_dir='./archive/animals/animals', batch_size=32):
+def create_dataloaders(data_dir='./dataset/animals/animals', batch_size=32):
     transform = transforms.Compose([
         transforms.Resize((224, 224)),
         transforms.ToTensor(),
