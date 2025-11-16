@@ -1,1 +1,6 @@
 .DS_Store
+**/data*/**
+**/dataset*/**
+**/.venv*/**
+**/venv*/**
+*.mp3
