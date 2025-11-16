@@ -1,0 +1,5 @@
+KEYWORD: DI
+
+Letters found:
+  Position 1: D (Delta) at 0 min
+  Position 2: I (India) at 40 min
